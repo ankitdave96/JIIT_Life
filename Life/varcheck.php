@@ -1,0 +1,9 @@
+<html>
+<head>
+<body>
+<?php
+$GLOBALS['log']=0;
+?>
+</body>
+</head>
+</html>
